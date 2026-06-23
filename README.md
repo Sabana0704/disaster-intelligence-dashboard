@@ -59,8 +59,7 @@ Without a key, intelligent rule-based summaries are generated automatically.
 
 ---
 
-## Power BI Integration
-See `POWERBI_GUIDE.md` for the full step-by-step connection guide.
+.
 
 Quick steps:
 1. Process data → Export tab → **Export Now**
