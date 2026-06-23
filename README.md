@@ -59,16 +59,6 @@ Without a key, intelligent rule-based summaries are generated automatically.
 
 ---
 
-.
-
-Quick steps:
-1. Process data → Export tab → **Export Now**
-2. Open Power BI Desktop → Get Data → CSV → `exports/disaster_latest.csv`
-3. Build visuals using the recommended schema
-4. Click **Refresh** after each new export
-
----
-
 ## CSV Input Format
 
 | Column   | Required | Description                        |
