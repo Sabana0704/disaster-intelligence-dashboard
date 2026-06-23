@@ -11,7 +11,6 @@ Academic Project · Python · Streamlit · Claude AI · Power BI
 disaster_nlp/
 ├── app.py                    ← Main Streamlit application
 ├── requirements.txt          ← Python dependencies
-├── POWERBI_GUIDE.md          ← Step-by-step Power BI instructions
 ├── utils/
 │   ├── extractor.py          ← NLP extraction pipeline
 │   ├── summarizer.py         ← Claude AI summarization
